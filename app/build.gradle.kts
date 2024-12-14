@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "git.farzad.bearbox"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "git.farzad.bearbox"
